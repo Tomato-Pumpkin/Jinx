@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Yogi Firdiansyah</title>
+    </head>
+        <body>      
+            <table>
+            <form>
+              <label>
+                 Jenis Kelamin : 
+                        <select> 
+                            <option>-Pilih Jenis Kelamin-</option>
+                            <option>Laki-laki</option>
+                            <option>Perempuan</option>
+                        </select>
+              </label>
+            </form>
+            </table>
+        </body>
+</html>
