@@ -12,7 +12,6 @@
                        <br>
                        <input type="checkbox"> Java
                        <br>
-                       <label>Pesan : <textarea placeholder="Masukan Pesan"></textarea>
                     </label>
                     </form>
             </table>
