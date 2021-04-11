@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Yogi Firdiansyah</title>
+    </head>
+        <body>
+        <table>
+              <form>
+                  <label>Nama Lengkap : <input type="text" placeholder="Masukan Nama"></label>
+              </form>
+        </table>
+        </body>
+</html>
