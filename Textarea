@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Yogi Firdiansyah</title>
+    </head>
+        <body>
+            <table>
+            <form>
+              <label>Pesan : 
+                  <textarea placeholder="Masukan Pesan"></textarea>
+              </label>
+            </form>
+            </table>
+        </body>
+</html>
